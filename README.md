@@ -1,5 +1,6 @@
-# cyberpunk-devtools-theme
-A cyberpunk inspired chromium devtools theme
+# cyberpunk-devtools-theme V1
+A cyberpunk chromium devtools theme by my vscode setup:
+![S1](/vssetup.png "s1")
 
 ## Installation
 
@@ -12,6 +13,7 @@ A cyberpunk inspired chromium devtools theme
 7. Close and reopen chrome
 
 ## Preview
-![S1](/vssetup.png "s1")
 ![S2](/elements.png "s2")
 ![S3](/sources.png "s3")
+
+Updates coming soon
