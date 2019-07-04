@@ -2,7 +2,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/SeshanPillay25/cyberpunk-devtools-theme.svg)](https://github.com/SeshanPillay25/cyberpunk-devtools-theme/issues)
 [![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://github.com/SeshanPillay25/cyberpunk-devtools-theme/)
 # cyberpunk-devtools-theme
-A cyberpunk chromium devtools theme by my VScode setup:
+A cyberpunk chromium devtools theme inspired by my VScode setup:
 
 ![S1](/vssetup.png "s1")
 
