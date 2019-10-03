@@ -20,4 +20,6 @@ A cyberpunk chromium devtools theme inspired by my VScode setup:
 ![S2](/elements.png "s2")
 ![S3](/sources.png "s3")
 
-Updates coming soon
+Variants:
+ - Cyber red
+ - Crystal Blue
